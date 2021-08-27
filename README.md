@@ -32,7 +32,7 @@ Feel free to contribute by filing an issue: what would you suggest?
 - Datalog with Constraints: A Foundation for Trust Management Languages
 Ninghui Li and John C. Mitchell
 http://crypto.stanford.edu/~ninghui/papers/cdatalog_padl03.pdf
-
+- differential datalog https://github.com/vmware/differential-datalog
 
 ### AI
 
