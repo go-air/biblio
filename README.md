@@ -5,7 +5,15 @@ A bibliography of interesting works.
 These works, and many more to come, have inspired and informed the software in
 Go-air, works in progress included.  
 
-Feel free to contribute by filing an issue: what would you suggest?
+## Discussion
+
+Use [Discussions](https://github.com/go-air/biblio/discussions) to discuss ideas
+and link to related Go projects.
+
+## Adding Interesting works.
+
+[Use issues](https://github.com/go-air/biblio/issues) to propose adding interesting
+works.  What would you suggest?
 
 ## Model Checking
 
